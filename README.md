@@ -1,0 +1,2 @@
+# checkCalculator
+a little project 
